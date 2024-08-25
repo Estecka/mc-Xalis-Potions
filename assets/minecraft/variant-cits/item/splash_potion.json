@@ -1,4 +1,4 @@
 {
 	"type": "potion_type",
-	"variantsDir": "item/splash_potion"
+	"modelPrefix": "item/splash_potion/"
 }
