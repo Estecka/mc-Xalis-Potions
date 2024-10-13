@@ -1,0 +1,5 @@
+{
+	"type": "potion_type",
+	"modelPrefix": "item/splash_potion/",
+	"modelParent": "item/generated"
+}
